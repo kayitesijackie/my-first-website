@@ -13,3 +13,7 @@ p {
 ul {
   line-height: 40px;
 }
+body{
+    background-color: darkorchid;
+    font-size: 40px;
+}
