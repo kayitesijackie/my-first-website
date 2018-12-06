@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My first webpage!</title>
+    </head>
+    <body>
+            <h1>My favorite games</h1>
+            <p>These are games I like most:</p>
+            <ul>
+              <li>Basketball</li>
+              <li>Footbal</li>
+              <li>Volleyball</li>
+              <li>Swimming</li>
+            </ul>
+            <h1>My favorite domestic animals</h1>
+            My favorite domestic animals are:
+            <ul>
+              <li>Dogs</li>
+              <li>Cats</li>
+              <li>Cow</li>
+            
+    </body>
+</html>
